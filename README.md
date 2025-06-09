@@ -27,10 +27,6 @@ Proponer acciones basadas en datos para optimizar la oferta comercial.
 
 dirty_cafe_analysis.ipynb: notebook con análisis exploratorio y visualización básica.
 
-consultas.sql: consultas utilizadas para extracción y transformación de datos.
-
-powerbi_dashboard.pbix: panel interactivo creado con Power BI.
-
 
 📊 Visualizaciones Clave
 
